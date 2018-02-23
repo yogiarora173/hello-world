@@ -1,2 +1,4 @@
 # hello-world
-this is just trial of repository.
+hello github...
+this is just trial of my repository.
+
